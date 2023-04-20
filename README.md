@@ -108,6 +108,8 @@ RESPONSE:
     "design_green_ogres",
     "write_fuchsia_golems"
 ]
+```
+### Автор
+Дмитрий Михеев - [Telegram] 
 
-### Авторы
-Дмитрий Михеев - https://t.me/MkhvDm
+[Telegram]: <https://t.me/MkhvDm>
